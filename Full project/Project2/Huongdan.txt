@@ -1,0 +1,11 @@
+=============== HUONG DAN =================
+
+1.Nguoi choi su dung cac phim di chuyen: A S D W.
+
+2.Su dung phim di chuyen den vi tri mong muon.
+
+3.Nhan phim Enter de danh luot cua minh.
+
+4.Game se ket thuc khi nguoi choi di duoc lien tiep 5 quan X hoac O 
+  lien nhau theo hang ngang, doc, cheo.
+===========================================
